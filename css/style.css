@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+html{
+	scroll-behavior: smooth;
+}
+.header{
+	width: 100%;
+}
+
+
+
+/***banner section css****/
+
+.col-lg-6 p{
+	font-family: 'Poppins', sans-serif;
+	color: #3A424A;
+}
+
+.col-lg-6{
+	padding-top: 30px;
+}
+.col-lg-12 h1{
+font-family: 'Roboto', sans-serif;
+	font-size: 38px;
+}
+
+.col-lg-12 p{
+font-family: 'Poppins', sans-serif;
+color: #3A424A;
+}
+
+
+/***Features section css****/
+
+
+.Gallery-top .item{
+	background: #F0F0F0;
+	height: 44vh;
+}
+
+.item{
+	font-family: 'Poppins', sans-serif;
+	line-height: 24px;
+	font-size: 16px;
+
+}
+.item p{
+	font-family: 'Poppins', sans-serif;
+	color: #a0a0a0;
+	font-size: 12px;
+}
+
+.Gallery-bottom .item{
+	background: #F0F0F0;
+	height: 44vh;
+}
+
+.footer-content{
+background: #292640;
+height: 60vh;
+}
